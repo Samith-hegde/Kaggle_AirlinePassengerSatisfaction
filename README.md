@@ -25,8 +25,9 @@ What was done in the project:
 3) Plotting Correlation Map
 4) Pipeline of categorical data (One-Hot Encoded) and numerical data (Standardized) using ColumnTransformer
 5) Train-test split
-6) Trained and tested data on Linear SVC (Support Vector Classification), obtained accuracy score for testing data of 0.7948
+6) Trained and tested data on Linear SVC (Support Vector Classification), obtained accuracy score for training data of 0.7948
 7) Performed hyperparameter tuning using GridSearchCV, a cross-validation technique.
-8) Retrained the model using the optimum parameters, accuracy score for testing data increased marginally to 0.7976
+8) Retrained the model using the optimum parameters, accuracy score for training data increased marginally to 0.7976
 
-Final Rank in the competition: 
+Accuracy score for testing data: 0.79588
+Final Rank in the competition: 1025/2620
